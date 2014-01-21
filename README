@@ -1,0 +1,11 @@
+In this zip you will find my submission for the UCP assignment.
+
+This includes a makefile, by default it has the debugging flag switched on, you can switch if off by removing the -g from 'DEBUGFLAGS' in the makefile.
+
+To use the makefile simply type
+	make
+
+This should create you an executable called 'Calendar' which can be run using
+	./Calendar
+
+William 17440127
